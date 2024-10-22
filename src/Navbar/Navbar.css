@@ -1,0 +1,14 @@
+.Navcontainer{
+    background-color: black;
+}
+.nav-btn{
+    background-color: aqua;
+    padding: 5px ;
+    margin: 5px;
+    border-radius: 3px;
+    border-width: 0px;
+
+}
+.n-logo{
+    width: 50px;
+}

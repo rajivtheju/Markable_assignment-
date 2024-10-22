@@ -1,0 +1,88 @@
+.search{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+  padding : 10px;
+   
+}
+.searchbar{
+    width: 85%;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: rgba(0, 0, 0, 0.188);
+}
+.post-btn{
+    width: 10%;
+    background-color: red;
+    border-radius: 5px;
+    border-width: 0px;
+    font-weight: 500;
+    color: whitesmoke;
+}
+.post-container {
+    margin: 20px;
+    font-family: Roboto;
+  }
+  
+  .post-card {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .post-content {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .post-image img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 15px;
+  }
+  
+  .post-text {
+    flex: 1;
+  }
+  
+  .post-text h2 {
+    margin-bottom: 10px;
+  }
+  
+  .post-text p {
+    margin: 5px 0;
+  }
+  .head{
+color: #6A1B9A ;
+  }
+  .p-details{
+    font-size: 10px;
+  }
+  
+  .c-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .commentbar{
+    width: 85%;
+    border-radius: 50px;
+    border-color: rgba(0, 0, 0, 0.14);
+    padding: 3px;
+    font-size: 12px;
+  }
+  .comment-btn{
+    border-radius: 50px;
+    background-color: red;
+    color: whitesmoke;
+    border-width: 0px;
+  }
+  .lc{
+    display: flex;
+    justify-content: space-between;
+  }

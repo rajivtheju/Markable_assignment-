@@ -1,0 +1,16 @@
+.boxes{
+   background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin:20px 0px;
+}
+.logocontainer{
+    display: flex;
+    justify-content: space-evenly;
+}
